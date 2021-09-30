@@ -6,10 +6,8 @@
 </div>
 <br>
 <div>
-<h2 align="center"> 🔥 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 🔥 </h2>
 <li>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-<b>Name:</b> Haikal</li>
 <li>
 </div>
 <div>
@@ -21,6 +19,7 @@ Mungkin Aku Bodoh :v
 <h2>           🔥 𝐌𝐲 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 🔥</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
+</p>
 <h3><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
 </h3>
 
