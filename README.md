@@ -9,13 +9,11 @@
 <h2 align="center"> 🔥 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 🔥 </h2>
 <li>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-<b>My Name:</b> Haikal</li>
+<b>Name:</b> Haikal</li>
 <li>
-<p><b>     Thanks To For Support Me<br>
-                  Oniichan-Baka</b></p>
 </div>
 <div>
-<h2 align="left">            ~ 𝐇𝐖 𝐌𝐎𝐃𝐒 𝐖𝐀 ~</h2>
+<h2 align="left"> 𝐇𝐖 𝐌𝐎𝐃𝐒 𝐖𝐀 </h2>
 <p>
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
@@ -25,7 +23,7 @@
 Mungkin Aku Bodoh :v
 </p>
 <br>
-<h2>           🔥 ~ 𝐌𝐲 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 ~ 🔥</h2>
+<h2>           🔥 𝐌𝐲 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 🔥</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <h3><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
@@ -38,11 +36,5 @@ Mungkin Aku Bodoh :v
 <a href="https://trakteer.id/hw-mods-wa-haikal" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="2" style="border:0px;height:10px;" alt="DONASI FOR ME :V"></a>
 </p>
 <br>
-<div>
-<h2 align="center">🔥 ~ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐘𝐨𝐮 ~ 🔥</h2>
-<div align="center">
-</div>
-<hr>
-</div>
 </div>
 </body>
