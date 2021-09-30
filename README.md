@@ -29,7 +29,7 @@ Hii Nama Aku Haikal ✓
 Aku Dari Indonesia ✓
 </p>
 <br>
-<h2>           🔥 𝚃𝚑𝚊𝚗𝚔𝚜 𝙵𝚘𝚛 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 🔥</h2>
+<h2>           🔥 𝚃𝚑𝚊𝚗𝚔𝚜 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 🔥</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <br>
