@@ -7,8 +7,8 @@
 <br>
 <div>
 <h2 align="center"> 🔥 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 🔥 </h2>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 <li>
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 <b>My Name:</b> Haikal</li>
 <li>
 <p><b>     Thanks To For Support Me<br>
@@ -41,7 +41,6 @@ Mungkin Aku Bodoh :v
 <div>
 <h2 align="center">🔥 ~ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐘𝐨𝐮 ~ 🔥</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
 </div>
 <hr>
 </div>
