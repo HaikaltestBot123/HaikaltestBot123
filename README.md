@@ -25,6 +25,7 @@
 </p>
 <p align="center">
 - My Name Haikal
+</p>
 - I hope you guys like me
 <br>
 </p>
@@ -32,5 +33,15 @@
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
+### Github Stats 
+
+<p align="center"><a href="https://github.com/XChillDs"><img src="https://github-readme-stats.vercel.app/api?username=XChillDs&show_icons=true&theme=radical"></a></p>
+
+------    
+ 
+### Repo Stats 
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=HaikaltestBot123&repo=hmm&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=HaikaltestBot123&repo=XchillDs.github.io&theme=dark)
 </div>
 </body>
